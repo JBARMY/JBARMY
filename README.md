@@ -1,4 +1,4 @@
-# Hello, world! I'm Jeniffer Barbosa 👩‍💻
+# Hello, world! I'm Jeniffer Barbosa. 👩‍💻
 
 💰 Financial Management graduate from IBMR University Center<br>
 🐍 Aspiring Backend Developer with Python<br>
